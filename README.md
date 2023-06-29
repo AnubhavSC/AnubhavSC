@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm Anubhav Shivam Nath</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<div align='center'>
+
+## Hey boys, 🤘 Its me <a href="https://anubhavwc.tk/" target="_blank">Anubhav</a>,
+
+&nbsp; ![GitHub](https://img.shields.io/github/followers/AnubhavWC?label=Follow%20Me%21%21&style=for-the-badge&logo=Github)
+&nbsp; ![GitHub User's stars](https://img.shields.io/github/stars/AnubhavWC?style=for-the-badge&logo=Github)
+&nbsp; ![Twitch Status](https://img.shields.io/twitch/status/anubhavwc?style=for-the-badge&logo=Twitch)
+&nbsp; ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCCi1DxbJSSvIx8UZgAUHG8w?style=for-the-badge&logo=Youtube)
+
+
+</div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anubhavsc&theme=juicyfresh&no-frame=true" alt="anubhavsc" />
@@ -70,13 +79,13 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhavsc&show_icons=true&locale=en&layout=compact&theme=radical" alt="anubhavsc" />
-</p>
-
-<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhavsc&show_icons=true&locale=en&theme=radical" alt="anubhavsc" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhavsc&show_icons=true&locale=en&layout=compact&theme=radical" alt="anubhavsc" />
 </p>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavsc&theme=radical" alt="anubhavsc" />
 </p>
+
+
+[website]: https://anubhavwc.tk
