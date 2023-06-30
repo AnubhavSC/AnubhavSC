@@ -88,7 +88,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavsc&theme=radical" alt="anubhavsc" />
 </p>
 <hr>
-<div>
+<div align="center">
   <h2>Boy's show some power 🤘 Follow Me 😉!</h2>
 </div>
 
