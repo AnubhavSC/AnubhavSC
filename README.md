@@ -89,7 +89,7 @@
 </p>
 <hr>
 <div>
-  <h2>Boy's show some power 🤘 and Starring my Repositories and also Following Me 😉!</h2>
+  <h2>Boy's show some power 🤘 Follow Me 😉!</h2>
 </div>
 
 
