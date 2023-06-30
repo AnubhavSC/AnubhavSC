@@ -85,6 +85,8 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavsc&theme=radical" alt="anubhavsc" />
 </p>
-
+<div>
+  <h2>Boy's show some power 🤘 and Starring my Repositories and also Following Me 😉!</h2>
+</div>
 [website]: https://anubhavwc.tk
 
