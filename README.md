@@ -79,12 +79,12 @@
 </p>
 <hr>
 <p align="center">
- 
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhavsc&show_icons=true&locale=en&theme=radical" alt="AnubhavSC" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhavsc&show_icons=true&locale=en&layout=compact&theme=radical" alt="anubhavsc" />
 </p>
 
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhavsc&show_icons=true&locale=en&theme=radical" alt="AnubhavSC" />
+   
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavsc&theme=radical" alt="anubhavsc" />
 </p>
 <hr>
