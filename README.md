@@ -16,7 +16,7 @@
 <hr>
 - 🌱 I’m currently learning **JavaScript, React, Next**
 
-- 📝 I'm regularly active on [Instagram](https://www.instagram.com/error._._.4.0.4/)
+- 📝 I'm regularly active on [Instagram](https://www.instagram.com/anubhav_shivam_nath/)
 
 - 💬 Ask me about **Cyber security**
 
