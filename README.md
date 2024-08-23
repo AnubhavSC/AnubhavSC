@@ -16,8 +16,6 @@
 <hr>
 - 🌱 I’m currently learning **JavaScript, React, Next**
 
-- 👨‍💻 All of my projects are available at [https://www.anubhavwc.tk/](https://www.anubhavwc.tk/)
-
 - 📝 I'm regularly active on [Instagram](https://www.instagram.com/error._._.4.0.4/)
 
 - 💬 Ask me about **Cyber security**
