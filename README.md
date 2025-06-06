@@ -5,7 +5,7 @@
             <div style="display: flex;">
                 <h1 align="center">
                     Welcome <img
-                        src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> to My "Github" <span style="color: red;">(Coders ka Adda)</span></h1>
+                        src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> to My "Github"</h1>
                 <img src="assets/error.gif" alt="Fucking GIF" style="border-radius: 40px; margin-left: 10px;"
                     height="100" width="100">
             </div>
