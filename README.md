@@ -21,7 +21,7 @@
                         src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif"
                         height="40" width="40"></a>
                 <a href="https://x.com/WhiteDe11243027"><img align="center"
-                        src="https://private-user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDkyMjA5ODMsIm5iZiI6MTc0OTIyMDY4MywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NjAtY2M0ZmU4OGMtN2Y3YS00MWQ4LWI0NDktMzRiN2ExNzhjMWM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA2VDE0MzgwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNhN2Y0ZjEwNTQwZGViYjBkMWNjZmE0MjQyZDFiNWYyNTk2Yjc3NDRmZmZiY2I3ODFmOTYxMjdiNmUwYTA4ZWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.MoFuxSbhB6kcAsjtYvjoZ0f-cJaPrr8Onb2ltdO79p4"
+                        src="https://raw.githubusercontent.com/johan/svg-cleanups/5bac1ce84167c62770c481146e3511d22a2931c5/logos/twitter.svg"
                         height="40" width="40"></a>
             </p>
             <p align="center">
