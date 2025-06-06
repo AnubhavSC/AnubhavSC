@@ -6,7 +6,7 @@
             <h1 align="center">Hi <img
                         src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,
                     Welcome to My "Github"  <img src="assets/error.gif"
-                        alt="Fucking GIF" style="border-radius: 40px; margin-left: 10px;" height="100" width="100"></h1>
+                        alt="Fucking GIF" style="border-radius: 40px; margin-left: 10px;" height="100" width="100"> <span style="color: red;">(Coders ka Adda)</span></h1>
             </div>
             <h3 align="center">I convince machines with keystrokes | Smells Good | I have Nothing to Add</h3>
             <p align="center">
