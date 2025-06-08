@@ -1,6 +1,4 @@
  <div style="justify-items: center;">
-        <!-- <img src="assets/banner.png" style="height: 20vw; width: 60rem;" alt=""> -->
-        <hr>
         <div>
             <div style="display: flex;">
             <h1 align="center">Hi <img
