@@ -39,4 +39,7 @@
             </p>
         </div>
         # I Have to complete this Readme.md.... I don't have fucking time !!!
+     <p align="center">
+       <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
+    </p>
 </div>
