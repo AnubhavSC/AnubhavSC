@@ -78,9 +78,7 @@
 </div>
 
 <div>
-
-![[assets/tip-hat-jack-sparrow.gif]]
-
+ <img src="/assets/tip-hat-jack-sparrow.gif" width="200">
 </div>
 
 </div>
