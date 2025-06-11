@@ -47,6 +47,9 @@
 
 # Good at Tech 
 
+<div style="display: flex;">
+<div>
+
 ### OS
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
@@ -71,6 +74,16 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#)
+
+</div>
+
+<div>
+
+[! [Image](assets/tip-hat-jack-sparrow.gif)]
+
+</div>
+
+</div>
 
 
 ### Languages
