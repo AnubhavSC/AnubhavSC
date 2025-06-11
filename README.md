@@ -79,7 +79,7 @@
 
 <div>
 
-[! [Image](assets/tip-hat-jack-sparrow.gif)]
+![[assets/tip-hat-jack-sparrow.gif]]
 
 </div>
 
