@@ -1,10 +1,10 @@
- <div style="justify-items: center;">
+<div style="justify-items: center;">
         <div>
             <div style="display: flex;">
             <h1 align="center">Hi <img
                         src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,
                     Welcome to My "Github"  <img src="assets/error.gif"
-                        alt="Fucking GIF" style="border-radius: 40px; margin-left: 10px;" height="100" width="100"> <span style="color: red;"><br> (Coders ka Adda)</span></h1>
+                        alt="Fucking GIF" style="border-radius: 40px; margin-left: 10px;" height="100" width="100"> <span><br> (Coders ka Adda) &nbsp &nbsp</span></h1>
             </div>
             <h3 align="center">I convince machines with keystrokes | Smells Good | I have Nothing to Add</h3>
             <p align="center">
@@ -38,8 +38,18 @@
                     width="50">
             </p>
         </div>
-        # I Have to complete this Readme.md.... I don't have fucking time !!!
-     <p align="center">
-       <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
-    </p>
+<div align="center">
+
+![GithubTrophies](https://github-profile-trophy.vercel.app/?username=and262144&theme=transparent&no-frame=true&no-bg=false&margin-w=10)
+
+![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
+
+
 </div>
+
+### I Have to complete this Readme.md.... I don't have fucking time !!!
+
+<p align="center">
+       <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
+</p>
+
