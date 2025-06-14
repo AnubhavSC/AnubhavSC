@@ -42,7 +42,55 @@
 
 ![GithubTrophies](https://github-profile-trophy.vercel.app/?username=and262144&theme=transparent&no-frame=true&no-bg=false&margin-w=10)
 
-![The Inspirer](https://api.schoolinnovationmarathon.org//assets/images/badges/The_Inspirer_Individual_Badge.png)
+## 🏅 My Badges from School Innovation Marathon
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://api.schoolinnovationmarathon.org//assets/images/badges/The_Inspirer_Individual_Badge.png" width="90" /><br>
+      <b>The Inspirer</b><br>
+      <sub>Earned on: 27 Nov 2024</sub>
+    </td>
+    <td align="center">
+      <img src="https://api.schoolinnovationmarathon.org//assets/images/badges/The_Finder_Individual_Badge.png" width="90" /><br>
+      <b>The Finder</b><br>
+      <sub>Earned on: 27 Nov 2024</sub>
+    </td>
+    <td align="center">
+      <img src="https://api.schoolinnovationmarathon.org//assets/images/badges/The_Explorer_Individual_Badge.png" width="90" /><br>
+      <b>The Explorer</b><br>
+      <sub>Earned on: 27 Nov 2024</sub>
+    </td>
+    <td align="center">
+      <img src="https://api.schoolinnovationmarathon.org//assets/images/badges/The_Ideator_Individual_Badge.png" width="90" /><br>
+      <b>The Ideator</b><br>
+      <sub>Earned on: 27 Nov 2024</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://api.schoolinnovationmarathon.org//assets/images/badges/The_Solver_Individual_Badge.png" width="90" /><br>
+      <b>The Solver</b><br>
+      <sub>Earned on: 27 Nov 2024</sub>
+    </td>
+    <td align="center">
+      <img src="https://api.schoolinnovationmarathon.org//assets/images/badges/The_Change_Maker_Individual_Badge.png" width="90" /><br>
+      <b>The Change Maker</b><br>
+      <sub>Earned on: 14 Feb 2025</sub>
+    </td>
+    <td align="center">
+      <img src="https://api.schoolinnovationmarathon.org//assets/images/badges/Survey_Master_Individual_Badge.png" width="90" /><br>
+      <b>Survey Master</b><br>
+      <sub>Earned on: 29 Nov 2024</sub>
+    </td>
+    <td align="center">
+      <img src="https://api.schoolinnovationmarathon.org//assets/images/badges/The_Finisher_Individual_Badge.png" width="90" /><br>
+      <b>The Finisher</b><br>
+      <sub>Earned on: 27 Nov 2024</sub>
+    </td>
+  </tr>
+</table>
+
 
 </div>
 
