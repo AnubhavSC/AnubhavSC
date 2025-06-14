@@ -42,7 +42,6 @@
 
 ![GithubTrophies](https://github-profile-trophy.vercel.app/?username=and262144&theme=transparent&no-frame=true&no-bg=false&margin-w=10)
 
-
 </div>
 
 <p align="center">
