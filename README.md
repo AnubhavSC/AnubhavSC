@@ -23,7 +23,7 @@
             </p>
             <p align="center">
                 <em>
-                    This is ME, Anubhav, a <b>10th Greader</b> from <a href="https://mangaldoi.kvs.ac.in/"> <b>Kendriya
+                    This is ME, Anubhav, a <b>11th Greader</b> from <a href="https://mangaldoi.kvs.ac.in/"> <b>Kendriya
                             Vidalaya Mangaldai</b></a>. <br>
                     A GOOD <b>AI/ML and IOT Developer</b> <img src="/assets/developer.gif" width="30px"> and a <b>Web
                         Developer (FREELANCER)</b>&nbsp;<img src="assets/money .gif" width="36px">&nbsp;,<br>I'm
