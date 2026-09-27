@@ -38,11 +38,6 @@
                     width="50">
             </p>
         </div>
-<div align="center">
-
-![GithubTrophies](https://github-profile-trophy.vercel.app/?username=and262144&theme=transparent&no-frame=true&no-bg=false&margin-w=10)
-
-</div>
 
 <p align="center">
        <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
